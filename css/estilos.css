@@ -1,0 +1,17 @@
+/*esto es un comentario de CSS*/
+/*
+ANATOMIA DEL CSS
+selector{
+    propiedad:valor;
+
+
+*/
+h1{
+    color:aquamarine;
+}
+p{
+    color:thistle;
+}
+dt{
+    color:black
+}
