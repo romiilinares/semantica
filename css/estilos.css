@@ -7,11 +7,26 @@ selector{
 
 */
 h1{
-    color:aquamarine;
+    color:#000000
 }
 p{
-    color:thistle;
+    color:#9D96FF
 }
 dt{
-    color:black
+   color: black;
+}
+strong{
+    background-color:#EC96F4
+}
+u{
+    background-color: #FFF296;
+}
+h2{
+    background-color: #EED0F5;
+}
+th{
+    background-color: #FED4C3;
+}
+td{
+    background-color: #E090C8;
 }
